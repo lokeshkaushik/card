@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">card</string>
+    <string name="company">JC Bose UST , YMCA</string>
+    <string name="logo">logo</string>
+    <string name="name">Lokesh kaushik</string>
+    <string name="designation">Btech ENC 6th Sem</string>
+    <string name="contact">8168064314</string>
+    <string name="email">lokeshsharma@gmail.com</string>
+    <string name="address">Sector 11 Faridabad</string>
+</resources>
